@@ -1,11 +1,11 @@
 # Applications needed:
-https://www.apachefriends.org/pl/index.html (Xampp)
-https://www.jetbrains.com/idea/ (IntelliJ)
-https://www.python.org/downloads/ (Python 3.11.4)
-https://www.java.com/download/ie_manual.jsp (Java 17)
-https://nodejs.org/en (Nodejs)
-https://visualstudio.microsoft.com/pl/vs/older-downloads/  (Visual Studio 2019)
-https://code.visualstudio.com/ (Visual Studio Code)
+1)https://www.apachefriends.org/pl/index.html (Xampp)
+2)https://www.jetbrains.com/idea/ (IntelliJ)
+3)https://www.python.org/downloads/ (Python 3.11.4)
+4)https://www.java.com/download/ie_manual.jsp (Java 17)
+5)https://nodejs.org/en (Nodejs)
+6)https://visualstudio.microsoft.com/pl/vs/older-downloads/  (Visual Studio 2019)
+7)https://code.visualstudio.com/ (Visual Studio Code)
 
 
  # Backend:
